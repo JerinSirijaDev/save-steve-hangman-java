@@ -1,0 +1,7 @@
+Jerin,Hard,1935
+Manu,Medium,1462
+mario,Hard,1943
+Goku,Easy,974
+Raju,Hard,1934
+Lucy,Hard,1949
+Joel,Hard,1961
