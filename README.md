@@ -27,3 +27,7 @@ Small Java Swing hangman game where the player must guess a hidden word to "save
 ## Notes
 - If audio or images are missing, the game still runs but will log missing asset messages.
 - Scores are appended to `scores.txt` in the format: `name,difficulty,score`.
+
+## License
+- MIT License
+- Copyright (c) 2025 Jerin Sirija
