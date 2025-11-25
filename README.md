@@ -1,5 +1,6 @@
 # save-steve-hangman-java
 "This is Steve. He was kidnapped. The kidnapper is playing a deadly game. Guess the word or Steve gets hanged."
+ Steve is a sarcastic, mean person, so if you take too long to input something or make a wrong guess, he will call you out.
 
 Small Java Swing hangman game where the player must guess a hidden word to "save Steve". Includes simple UI, sound effects, background music, and a local leaderboard stored in `scores.txt`.
 
