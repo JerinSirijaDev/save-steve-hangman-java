@@ -412,7 +412,7 @@ public class HangmanGame {
                     gameEnded = true;
                     soundPlayer.stopBGM();
 
-                    // Show Steve's final interrupted quote
+                    // Steve's final interrupted quote
                     String finalQuote = steveFinalQuotes[new Random().nextInt(steveFinalQuotes.length)];
                     showStevePopup(finalQuote);
 
@@ -579,3 +579,4 @@ class SoundPlayer {
         }
     }
 }
+
